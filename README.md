@@ -37,5 +37,5 @@ Just like me, this site is constantly evolving. Come back later and you might se
 
 Got a project idea? Want to geek out over clean code or cursed bugs? Hit me up!
 
-[LinkedIn](https://www.linkedin.com/in/your-username) | [GitHub](https://github.com/your-username) | [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/audrickruizer) | [GitHub](https://github.com/audrickruizer) | [Email](audric.kruizer@gmail.com)
 
