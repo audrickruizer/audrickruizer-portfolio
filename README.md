@@ -1,6 +1,6 @@
 # 🌐 Welcome to My Digital Playground!
 
-Hey there! I'm **[Your Name]**, a fresh UNSW Computer Science grad based in Sydney 🌇 who's passionate about **software engineering**, **data analysis**, and occasionally losing sleep over a machine learning model that won't converge 🤖💻
+Hey there! I'm **Audric**, a fresh UNSW Computer Science grad based in Sydney 🌇 who's passionate about **software engineering**, **data engineering**, and occasionally losing sleep over a machine learning model that won't converge 🤖💻
 
 This is my **portfolio website** — a curated corner of the internet where I show off my projects, skills, and creative chaos. Whether you're here to hire me, stalk my GitHub, or just accidentally clicked a link, welcome! 🎉
 
@@ -29,7 +29,7 @@ Just like me, this site is constantly evolving. Come back later and you might se
 
 - More AI stuff  
 - Interactive data visualizations  
-- Maybe even a blog if I feel *extra* inspired  
+- Maybe even a blog if I feel *extra* inspired
 
 ---
 
