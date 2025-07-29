@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Mobile App Engineer Intern – Audric Kruizer</title>
+	<link rel="stylesheet" href="assets/css/main.css">
+	<noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
+	<style>
+		body {
+			background-color: #ffffff;
+			color: #111;
+			font-family: "Segoe UI", Roboto, sans-serif;
+			line-height: 1.7;
+			margin: 0;
+			padding: 0;
+		}
+		.container {
+			max-width: 960px;
+			margin: 0 auto;
+			padding: 2rem;
+		}
+		.image-header {
+			width: 100%;
+			height: auto;
+			border-radius: 8px;
+			margin-bottom: 2rem;
+		}
+		h1 {
+			font-size: 2.5rem;
+			margin-bottom: 1rem;
+		}
+		h2 {
+			font-size: 1.5rem;
+			margin-top: 2.5rem;
+			margin-bottom: 1rem;
+		}
+		p, ul {
+			font-size: 1rem;
+		}
+		ul {
+			padding-left: 1.5rem;
+		}
+		.columns {
+			display: grid;
+			grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+			gap: 1.5rem;
+			margin-top: 2rem;
+		}
+		.columns p {
+			font-weight: bold;
+			margin-bottom: 0.25rem;
+		}
+		.back-link {
+			display: inline-block;
+			margin-bottom: 1.5rem;
+			font-size: 0.95rem;
+			color: #555;
+			text-decoration: none;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<a href="index.html" class="back-link">← Back to Portfolio</a>
+
+		<img src="images/challenz.png" alt="Mobile App Project Banner" class="image-header">
+
+		<h1>Uwaci Coins System</h1>
+		<p>Engineered the backend system for a cross-platform mobile application using <strong>Node.js, Express, and Supabase</strong>, powering features like unique barcode generation, secure transaction validation, and a digital reward system called Uwaci Coins.</p>
+
+		<div class="columns">
+			<div>
+				<p>Role</p>
+				<span>Backend Engineer</span>
+			</div>
+			<div>
+				<p>Timeline</p>
+				<span>May – August 2025</span>
+			</div>
+			<div>
+				<p>Team</p>
+				<span>2 Backend Developer, 2 Frontend Developer</span>
+			</div>
+			<div>
+				<p>Tools/Skills</p>
+				<span>Node.js, Express, Supabase, PostgreSQL, Barcode, Auth</span>
+			</div>
+		</div>
+
+		<h2>Summary & Impact</h2>
+		<p>I led the development of the backend infrastructure for Uwaci Coins — a digital rewards platform aimed at helping local merchants retain customers through discounts and coins-based loyalty. The app supported seamless scanning via barcode and allowed merchants to validate transactions securely via a companion web app for shops without POS systems.</p>
+
+		<h2>Timeline & Scope</h2>
+		<p>From day one, I structured the architecture with scalability and modularity in mind. API endpoints were protected via Supabase Auth and scoped based on user roles (merchant or customer). Transaction codes were validated using Edge Functions with proper expiration and redemption rules.</p>
+
+		<h2>Key Contributions</h2>
+		<ul>
+			<li>Built REST APIs for creating, validating, and redeeming Uwaci Coins codes, allowing customers to earn and redeem coins seamlessly across participating merchants.</li>
+			<li>Designed and developed the backend APIs for generating and validating unique barcodes tied to discount-based transactions using Uwaci Coins.</li>
+			<li>Developed a responsive admin dashboard (Next.js + Tailwind CSS) to support shops without POS systems.</li>
+			<li>Handled secure role-based authentication and access control with Supabase.</li>
+		</ul>
+		<img src="images/challenz-web.png" alt="Mobile App Project Banner" class="image-header">
+		<h2>Takeaways</h2>
+		<ul>
+			<li><strong>Think Inclusively:</strong> Not every business has access to POS systems — the admin dashboard helped bridge that gap.</li>
+			<li><strong>Keep It Secure:</strong> Managing transactions demands careful authentication and validation — Supabase Edge Functions were critical here.</li>
+			<li><strong>Own the Backend:</strong> Building from scratch meant I had full control over data design, API structure, and optimization.</li>
+		</ul>
+
+		<h2>Want to see more?</h2>
+		<p>If you'd like to learn more or view the source code, feel free to contact me at audric.kruizer@gmail.com!</p>
+
+		<ul class="actions special">
+			<li><a href="index.html" class="button">Return to Portfolio</a></li>
+		</ul>
+	</div>
+
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/jquery.scrollex.min.js"></script>
+	<script src="assets/js/jquery.scrolly.min.js"></script>
+	<script src="assets/js/browser.min.js"></script>
+	<script src="assets/js/breakpoints.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/js/main.js"></script>
+</body>
+</html>
